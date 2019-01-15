@@ -19,17 +19,17 @@ weight = 5
 [[education.courses]]
   course = "PhD in Physical Oceanography"
   institution = "Louisiana State University"
-  year = 2012
+  year = 20XX
 
 [[education.courses]]
   course = "MSc in Physical Oceanography"
   institution = "Tokai University"
-  year = 2009
+  year = 200X
 
 [[education.courses]]
   course = "BSc in Marine Science"
   institution = "Tokai University"
-  year = 2008
+  year = 200X
  
 +++
 
